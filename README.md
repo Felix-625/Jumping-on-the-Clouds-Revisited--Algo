@@ -1,1 +1,3 @@
 # Jumping-on-the-Clouds-Revisited--Algo
+
+This problem where a player jumps through clouds in a circular array with a fixed jump size k, and the function jumpingOnClouds calculates the player's remaining energy after the jumps. The main function reads input values for the number of clouds n, the jump distance k, and the cloud types in vector c, using the helper function split_string to parse input strings into tokens. The split_string function cleans up extra spaces and splits a string by spaces into a vector of substrings. The core logic to calculate the energy after jumps based on cloud types is yet to be implemented in the jumpingOnClouds function.
